@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-brand">
         <Link href="/" className="logo">
-          Samuel<span> Writes</span>
+          Sameyol<span> Writes</span>
         </Link>
 
         <p>
@@ -27,7 +27,7 @@ export default function Footer() {
       </a>
 
       <div className="copyright">
-        © {new Date().getFullYear()} Samuel. All rights reserved.
+        © {new Date().getFullYear()} Sameyol. All rights reserved.
       </div>
     </footer>
   );
