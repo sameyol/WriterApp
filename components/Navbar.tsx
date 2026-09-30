@@ -27,7 +27,7 @@ export default function Navbar() {
         />
 
         <span className="brand-name logo">
-          Samuel<span className=""> Writes</span>
+          Sameyol<span className=""> Writes</span>
         </span>
       </Link>
 

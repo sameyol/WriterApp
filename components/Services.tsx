@@ -1,9 +1,9 @@
 const services = [
-  {
+    {
     number: "01",
-    title: "Blog & Article Writing",
+    title: "YouTube Scriptwriting",
     description:
-      "Well-structured, engaging articles that educate readers and keep them interested from beginning to end.",
+      "Engaging, well-researched scripts designed to capture attention, tell compelling stories, and keep viewers watching.",
   },
   {
     number: "02",
@@ -25,12 +25,18 @@ const services = [
   },
   {
     number: "05",
+    title: "Blog & Article Writing",
+    description:
+      "Well-structured, engaging articles that educate readers and keep them interested from beginning to end.",
+  },
+  {
+    number: "06",
     title: "Technical & Educational Writing",
     description:
       "Complex subjects explained in a simple, accessible way without losing important details.",
   },
   {
-    number: "06",
+    number: "07",
     title: "Historical & Documentary Writing",
     description:
       "Research-based storytelling that brings historical people, places, cultures, and events to life.",

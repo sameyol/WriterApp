@@ -4,18 +4,16 @@ export default function Hero() {
   return (
     <section className="hero">
       <div className="hero-content">
-        <p className="eyebrow">WRITER & CONTENT CREATOR</p>
+        <p className="eyebrow">YOUTUBE SCRIPTWRITER & CONTENT WRITER</p>
 
         <h1>
-          Words that <em>inform,</em>
+          Stories that capture <em>attention.</em>
           <br />
-          connect & inspire.
+          Content that gets results.
         </h1>
 
         <p className="hero-description">
-          I create clear, engaging, and well-researched content for
-          businesses, brands, publications, and audiences that value
-          great writing.
+          I create engaging, research-driven scripts, articles, SEO content, and social media content for creators, businesses, and brands.
         </p>
 
         <div className="hero-buttons">

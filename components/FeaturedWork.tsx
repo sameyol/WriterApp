@@ -20,14 +20,14 @@ const work = [
     href: "/work/social-media-content",
   },
   {
-    number: "03",
-    category: "HISTORICAL WRITING",
-    title: "The Mali Empire and the Rise of Mansa Musa",
-    description:
-      "A documentary-style historical story exploring Mali's trade networks, political power, scholarship, and Mansa Musa's famous pilgrimage.",
-    tags: ["Research", "History", "Documentary"],
-    href: "/work/mali-empire",
-  },
+  number: "03",
+  category: "YOUTUBE SCRIPTWRITING",
+  title: "The Man Who Defeated an Army With Just 300 Men",
+  description:
+    "A biblical documentary-style script retelling Gideon's remarkable victory over the Midianite army, combining dramatic storytelling, biblical context, and an inspirational message of faith.",
+  tags: ["YouTube Scriptwriting", "Biblical Storytelling", "Documentary"],
+  href: "/work/gideon-300-men",
+},
   {
     number: "04",
     category: "HISTORICAL WRITING",
