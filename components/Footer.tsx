@@ -6,7 +6,7 @@ export default function Footer() {
     <footer className="footer">
       <div className="footer-brand">
         <Link href="/" className="logo">
-          Samuel<span> Writes</span>
+          Sameyol<span> Writes</span>
         </Link>
 
         <p>
